@@ -1,0 +1,5 @@
+fast api :uvicorn src.api.main:app --reload --port 8000
+to activate environment : source venv/bin/activate
+forntend : npm run dev
+to start ethereum : ganache --port 8545 --accounts 10 --deterministic --hardfork london
+
